@@ -1,0 +1,34 @@
+EESchema-LIBRARY Version 2.3  21/02/2018-14:41:38
+# Converted with eagle-lbr2kicad-1.0.ulp Version:3.10  Build Date:20-April-2017  USE THIS PROGRAM AT YOUR OWN RISK
+# devicesets = 2  devicescount =2
+#ERROR No Gate pins.  Gate Number=1
+#
+# HORZ1     # HORZ1
+#
+DEF HORZ1 M 0 40 N N 1 L N
+F0 "M" 0 0 45 H I C CNN
+F1 "HORZ1" 0 0 45 H I C CNN
+F2 "HORZ1" 30 150 20 H I C CNN
+$FPLIST
+ *HORZ1*
+$ENDFPLIST
+DRAW
+T 0 107 28 56 0 1 0 "HORZ"  Normal 0 C C
+ENDDRAW
+ENDDEF
+#ERROR No Gate pins.  Gate Number=1
+#
+# VERT0     # VERT0
+#
+DEF VERT0 M 0 40 N N 1 L N
+F0 "M" 0 0 45 H I C CNN
+F1 "VERT0" 0 0 45 H I C CNN
+F2 "VERT0" 30 150 20 H I C CNN
+$FPLIST
+ *VERT0*
+$ENDFPLIST
+DRAW
+T 0 107 28 56 0 1 0 "VERT"  Normal 0 C C
+ENDDRAW
+ENDDEF
+#End Library

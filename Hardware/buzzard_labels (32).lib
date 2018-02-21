@@ -1,0 +1,19 @@
+EESchema-LIBRARY Version 2.3  21/02/2018-14:56:27
+# Converted with eagle-lbr2kicad-1.0.ulp Version:3.10  Build Date:20-April-2017  USE THIS PROGRAM AT YOUR OWN RISK
+# devicesets = 1  devicescount =1
+#ERROR No Gate pins.  Gate Number=1
+#
+# PWR0     # PWR0
+#
+DEF PWR0 M 0 40 N N 1 L N
+F0 "M" 0 0 45 H I C CNN
+F1 "PWR0" 0 0 45 H I C CNN
+F2 "PWR0" 30 150 20 H I C CNN
+$FPLIST
+ *PWR0*
+$ENDFPLIST
+DRAW
+T 0 80 28 56 0 1 0 "PWR"  Normal 0 C C
+ENDDRAW
+ENDDEF
+#End Library

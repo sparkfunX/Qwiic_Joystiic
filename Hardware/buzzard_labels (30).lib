@@ -1,0 +1,64 @@
+EESchema-LIBRARY Version 2.3  21/02/2018-14:35:08
+# Converted with eagle-lbr2kicad-1.0.ulp Version:3.10  Build Date:20-April-2017  USE THIS PROGRAM AT YOUR OWN RISK
+# devicesets = 4  devicescount =4
+#ERROR No Gate pins.  Gate Number=1
+#
+# 3V30     # 3V30
+#
+DEF 3V30 M 0 40 N N 1 L N
+F0 "M" 0 0 45 H I C CNN
+F1 "3V30" 0 0 45 H I C CNN
+F2 "3V30" 30 150 20 H I C CNN
+$FPLIST
+ *3V30*
+$ENDFPLIST
+DRAW
+T 0 80 28 56 0 1 0 "3v3"  Normal 0 C C
+ENDDRAW
+ENDDEF
+#ERROR No Gate pins.  Gate Number=1
+#
+# GND3     # GND3
+#
+DEF GND3 M 0 40 N N 1 L N
+F0 "M" 0 0 45 H I C CNN
+F1 "GND3" 0 0 45 H I C CNN
+F2 "GND3" 30 150 20 H I C CNN
+$FPLIST
+ *GND3*
+$ENDFPLIST
+DRAW
+T 0 80 28 56 0 1 0 "GND"  Normal 0 C C
+ENDDRAW
+ENDDEF
+#ERROR No Gate pins.  Gate Number=1
+#
+# SCL2     # SCL2
+#
+DEF SCL2 M 0 40 N N 1 L N
+F0 "M" 0 0 45 H I C CNN
+F1 "SCL2" 0 0 45 H I C CNN
+F2 "SCL2" 30 150 20 H I C CNN
+$FPLIST
+ *SCL2*
+$ENDFPLIST
+DRAW
+T 0 80 28 56 0 1 0 "SCL"  Normal 0 C C
+ENDDRAW
+ENDDEF
+#ERROR No Gate pins.  Gate Number=1
+#
+# SDA1     # SDA1
+#
+DEF SDA1 M 0 40 N N 1 L N
+F0 "M" 0 0 45 H I C CNN
+F1 "SDA1" 0 0 45 H I C CNN
+F2 "SDA1" 30 150 20 H I C CNN
+$FPLIST
+ *SDA1*
+$ENDFPLIST
+DRAW
+T 0 80 28 56 0 1 0 "SDA"  Normal 0 C C
+ENDDRAW
+ENDDEF
+#End Library
