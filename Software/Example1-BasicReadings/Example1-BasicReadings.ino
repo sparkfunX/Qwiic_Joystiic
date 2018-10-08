@@ -40,7 +40,7 @@ void loop() {
   Serial.println(getButton(), BIN);
   Serial.println();
 
-  delay(1000);
+  delay(300);
 
 }
 
@@ -159,5 +159,3 @@ void setAddr(byte addr) {
   Wire.endTransmission();
 
 }
-
-
